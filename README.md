@@ -1,3 +1,8 @@
+Modify the import rules to support python 3.
+
+The tutorial is from https://blog.csdn.net/qq_28660035/article/details/81319055
+
+
 chumpy
 ======
 
