@@ -5,7 +5,7 @@ See LICENCE.txt for licensing and contact information.
 """
 
 import numpy.random
-from ch import Ch
+from chumpy.ch import Ch
 
 api_not_implemented = ['choice','bytes','shuffle','permutation']
 

@@ -1,8 +1,8 @@
 __author__ = 'matt'
 
-import ch
+import chumpy.ch as ch
 import numpy as np
-from utils import row, col
+from chumpy.utils import row, col
 import scipy.sparse as sp
 import scipy.special
 
